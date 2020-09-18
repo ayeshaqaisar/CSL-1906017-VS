@@ -1,0 +1,19 @@
+body{
+  background-color: #fbdcc4;
+}
+h1,h2,h3,p{
+   color: #31112c;
+  text-align: center;
+}
+ol{
+  text-align: center;
+}
+h1{
+  text-decoration: underline;
+}
+
+
+.centre{
+  padding-left: 15%;
+  padding-right: 15%;
+}
